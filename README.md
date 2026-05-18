@@ -1,9 +1,10 @@
 # Chpam-blin-mdam-the-game
 Бета версия моей игры, старался добавить немного лора в будущем будет дорабатываться 
-скачать здесь: https://drive.google.com/file/d/1YPqMXM-AYvSOe9Vnowea-UgCJZmLcru4/view?usp=sharing
+скачать здесь: https://drive.google.com/file/d/1wNsH8JSiPI___O1u-1jeGDFfGVf5Ex_k/view?usp=sharing
 
 НОВЫЕ ПРАВКИ:
 - Добавлены квесты
 - Обновлена записка
 - Удалено ооб игрок случайно мог выйти за карту после битвы с лесорубом
+- небольшое исправление в зданиях добавлен NPC
 
