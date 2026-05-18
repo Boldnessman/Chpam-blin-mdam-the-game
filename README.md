@@ -1,6 +1,6 @@
 # Chpam-blin-mdam-the-game
 Бета версия моей игры, старался добавить немного лора в будущем будет дорабатываться 
-скачать здесь: https://drive.google.com/file/d/1lBQa7MtIcGMT2n-wvEJ20AfKL4Ry5c8t/view?usp=sharing
+скачать здесь: https://drive.google.com/file/d/1E-XidiEokiU7pFbxEN_RHhrdZo30RA_i/view?usp=sharing
 
 НОВЫЕ ПРАВКИ:
 - Добавлены квесты
