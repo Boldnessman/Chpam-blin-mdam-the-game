@@ -1,6 +1,6 @@
 # Chpam-blin-mdam-the-game
 Бета версия моей игры, старался добавить немного лора в будущем будет дорабатываться 
-скачать здесь: https://drive.google.com/file/d/1_U3vIHr_Dz6u6Wmqg1DW4fhchSZHs0Ht/view?usp=sharing
+скачать здесь: https://drive.google.com/file/d/1iStYa9xRgiHZfHz9K6bzSUVlIEsEwCN7/view?usp=sharing
 
 Описание:
 Отважный герой (ты) приходит в деревню, чтобы помощь людям найти и сокрушить босса подземелья!
